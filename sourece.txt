@@ -1,1 +1,2 @@
 ﻿李宏毅 https://www.youtube.com/watch?v=fX_guE7JNnY&index=21&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+ Linux下安装mysql https://www.jianshu.com/p/276d59cbc529
